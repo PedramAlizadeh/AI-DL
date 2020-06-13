@@ -1,1 +1,0 @@
-This research was conducted under the supervision of [Dr. François Rivest](http://www2.cs.queensu.ca/people/profile.php?fname=Francois&lname=Rivest) as part of the requirement for CISC-867 Deep Learning course at Queen's University.
